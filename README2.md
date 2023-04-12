@@ -1,3 +1,5 @@
-##### You can also scan this [QR CODE](https://expo.dev/@marvedventures/little-lemon-app?serviceType=classic&distribution=expo-) to view the project. 
-
+Use this one for Android:
 ![final_mockup](https://github.com/MiCaptain/LittleLemonAppCapStone/blob/main/QRAndroid.png)
+
+Use this one forApple:
+![final_mockup](https://github.com/MiCaptain/LittleLemonAppCapStone/blob/main/QRApple.png)
